@@ -80,3 +80,6 @@ You could add an option to save the generated plots as images (e.g., PNG or JPG)
 API Key Security: As mentioned earlier, the API key is hardcoded in the script, which could pose a security risk, especially if the script is shared publicly. For better security practices, it's better to store the API key in an environment variable or a .env file, which would be loaded dynamically during script execution.
 
 Limited Data Representation: The script currently only handles temperature and humidity data. There are other valuable weather metrics, such as wind speed, pressure, and cloudiness, which could also be included in the plots. Adding additional plots for these parameters would provide users with a more comprehensive view of the forecast.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/d9c18a4a-c978-45d7-ba00-e1351c8a9aca)
